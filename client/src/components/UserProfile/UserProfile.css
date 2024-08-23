@@ -1,0 +1,21 @@
+.user-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    color: #fff;
+    height: 100vh;
+}
+
+.user-profile button {
+    cursor: pointer;
+    color: #FF004D;
+    border: 1px solid #FF004D;
+}
+
+#item {
+    margin-top: 1rem;
+    border: 1px solid #fff;
+    color: #fff;
+}

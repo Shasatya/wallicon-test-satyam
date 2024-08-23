@@ -1,0 +1,24 @@
+.home {
+    height: 100vh;
+}
+
+.home button a {
+    color: #98E4FF;
+    text-decoration: none;
+}
+
+.home-body {
+    text-align: center;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 25rem;
+}
+
+.home-body h1 {
+    font-size: 100px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+    color: transparent;
+}
